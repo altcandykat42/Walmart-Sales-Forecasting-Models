@@ -1,4 +1,4 @@
-# A deep dive into multi-store retail time series analysis using SARIMA and LSTM
+# A deep dive into multi-store retail time series analysis
 
 ##  Overview
 
