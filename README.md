@@ -16,6 +16,9 @@ The dataset includes weekly sales data, holiday indicators, and economic variabl
 - Derive insights about which modeling strategy generalizes better across stores.  
 
 ---
+## How to Use: 
+EDA.ipynb (to understand motivation) -> classification.ipynb (to see the model in action).
+---
 
 ##  Data Preprocessing & Feature Engineering
 
